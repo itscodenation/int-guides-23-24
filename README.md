@@ -1,140 +1,34 @@
-# HTML Guide
+# Code Nation Web Development Essentials: HTML, CSS & JavaScript
 
-A reference tool for learning and understanding the basic structure and elements of HTML.
+Welcome to the Web Development Essentials guides, where we explore the core technologies that power modern websites and web applications. This comprehensive set of guides covers HTML, CSS, and JavaScript, the building blocks of web development. Each guide dives into essential concepts, techniques, and code examples to help you build a strong foundation in web development.
 
 ## Table of Contents
-1. [Basic Structure of an HTML Document](#basic-structure)
-2. [HTML Elements](#html-elements)
-3. [Common HTML Elements with Examples](#common-html-elements)
-4. [Nesting and Indentation](#nesting-and-indentation)
-5. [HTML Elements with Attributes](#html-attributes)
-6. [Class and ID Attributes](#class-id-attributes)
+1. [HTML Guide](#html-guide)
+2. [CSS Guide](#css-guide)
+3. [JavaScript Fundamentals Guide](#javascript-fundamentals-guide)
+4. [Important Notes](#important-notes)
 
-## Basic Structure of an HTML Document <a name="basic-structure"></a>
-HTML documents have the following basic structure:
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Page</title>
-  </head>
-  <body>
-    <p>My first paragraph</p>
-  </body>
-</html>
-```
+### HTML Guide
+HTML (Hypertext Markup Language) is the standard markup language used to create web pages. It defines the structure and content of a webpage using elements and tags.
 
-## HTML Elements <a name="html-elements"></a>
-An HTML element consists of:
-- Opening Tag
-- Content
-- Closing Tag
-```html
-<p>This is a paragraph</p>
-```
+[Read the full HTML Guide](itscodenation/int-reference-table-23-24/1-HTML-Guide/README.md)
 
-## Common HTML Elements with Examples <a name="common-html-elements"></a>
-Here are some common HTML elements with code examples and their output.
+### CSS Guide
+CSS (Cascading Style Sheets) is a stylesheet language used to describe the look and formatting of a document written in HTML. It enables developers to control the layout, colors, fonts, and more.
 
-### Paragraph
-```html
-<p></p>
-<p>This is a paragraph.</p>
-```
+[Read the full CSS Guide](itscodenation/int-reference-table-23-24/2-CSS-Guide/README.md)
 
-### Headings
-```html
-<h1></h1>
-<h3></h3>
-<h6></h6>
-<h1>Heading level 1</h1>
-...
-<h6>Heading level 6</h6>
-```
+### JavaScript Fundamentals Guide
+JavaScript is a versatile programming language used to add interactivity and dynamic content to websites. Our JavaScript Fundamentals Guide covers variables, data types, loops, conditionals, and much more.
 
-### Ordered List (numbers)
-```html
-<ol>
-  <li>George Washington</li>
-  <li>John Adams</li>
-</ol>
-```
+[Read the JavaScript Fundamentals Guide](itscodenation/int-reference-table-23-24/3-JavaScript-Guide/README.md)
 
-### Unordered List (bullets)
-```html
-<ul>
-  <li>George Washington</li>
-  <li>John Adams</li>
-</ul>
-```
+### Important Notes
+- **Prerequisites**: Basic understanding of computers and internet navigation is recommended.
+- **Compatibility**: The code examples are designed to run in modern web browsers. Make sure to test your code in various browsers to ensure compatibility.
+- **Updates**: These guides are regularly updated to include the latest best practices and technologies.
 
-### Line Break (Self-closing)
-```html
-<br>
-<br>
-```
+## Conclusion
+These guides are designed for anyone interested in learning web development, whether you're a complete beginner or looking to brush up on your skills. By understanding HTML, CSS, and JavaScript, you'll be well on your way to creating engaging and responsive web applications. 
 
-### Button
-```html
-<button></button>
-<button>Click Me</button>
-```
-
-### Div
-```html
-<div></div>
-<div>This is a div</div>
-```
-
-### Input (Self-closing)
-```html
-<input>
-<input>
-```
-
-## Nesting and Indentation <a name="nesting-and-indentation"></a>
-In coding, nesting is when you put one tag completely inside another tag's content. Indentation helps you organize your code and makes it more readable.
-
-```html
-<div>
-  <h1>Weekday</h1>
-  <p>Monday</p>
-</div>
-```
-
-## HTML Elements with Attributes <a name="html-attributes"></a>
-An attribute adds extra information to an HTML element.
-
-### Image (Self-closing)
-```html
-<img src="https://imgur/cats.png">
-<img alt="dog running" src="https://dogs.com/image.jpg" class="dog-pic">
-```
-
-### Link (anchor tag)
-```html
-<a href="https://www.google.com"> This is a link to Google</a>
-<a href="https://www.youtube.com" target="_blank">YouTube popout</a>
-```
-
-### External Font
-```html
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-h1 { font-family: 'Pacifico', serif; }
-```
-
-### Input with Placeholder (Self-closing)
-```html
-<input placeholder="type here">
-```
-
-## Class and ID Attributes <a name="class-id-attributes"></a>
-Details about assigning and selecting classes and IDs.
-
-```css
-/* CSS class and id examples */
-.my-class { text-align: right; }
-#my-id { color: blue; }
-```
-
----
+Happy coding!
