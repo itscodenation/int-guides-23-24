@@ -11,17 +11,17 @@
 ### HTML Guide
 HTML (Hypertext Markup Language) is the standard markup language used to create web pages. It defines the structure and content of a webpage using elements and tags.
 
-[Read the full HTML Guide](itscodenation/int-reference-table-23-24/1-HTML-Guide/README.md)
+[Read the full HTML Guide](1-HTML-Guide/README.md)
 
 ### CSS Guide
 CSS (Cascading Style Sheets) is a stylesheet language used to describe the look and formatting of a document written in HTML. It enables developers to control the layout, colors, fonts, and more.
 
-[Read the full CSS Guide](itscodenation/int-reference-table-23-24/2-CSS-Guide/README.md)
+[Read the full CSS Guide](2-CSS-Guide/README.md)
 
 ### JavaScript Fundamentals Guide
 JavaScript is a versatile programming language used to add interactivity and dynamic content to websites. Our JavaScript Fundamentals Guide covers variables, data types, loops, conditionals, and much more.
 
-[Read the JavaScript Fundamentals Guide](itscodenation/int-reference-table-23-24/3-JavaScript-Guide/README.md)
+[Read the JavaScript Fundamentals Guide](3-JavaScript-Guide/README.md)
 
 ### Important Notes
 - **Prerequisites**: Basic understanding of computers and internet navigation is recommended.
