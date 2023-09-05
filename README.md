@@ -1,4 +1,4 @@
-# Code Nation Web Dev Essentials: HTML/CSS/JS
+# Code Nation Intro to Web Dev Essentials: HTML/CSS/JS
 
 👋 Welcome to the Web Development Essentials guides, where we explore the core technologies that power modern websites and web applications. This comprehensive set of guides covers HTML, CSS, and JavaScript, the building blocks of web development. Each guide dives into essential concepts, techniques, and code examples to help you build a strong foundation in web development.
 
